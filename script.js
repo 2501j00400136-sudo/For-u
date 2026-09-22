@@ -34,29 +34,7 @@ const pages = [
     },
 
 
-    // ====================================
-    // PAGE 3 - IMAGE 2
-    // ====================================
-
-    {
-        title: "Our Memories 😂🙂📸",
-
-        text: "Hamari first photo. 😂",
-
-        button: "Next 🫶",
-
-        html: `
-            <img
-                src="image2.jpeg"
-                class="memory-photo"
-                alt="Our first photo"
-            >
-
-            <h2>Our Memories 😂🙂📸</h2>
-
-            <p>Hamari first photo. 😂</p>
-        `
-    },
+    
 
 
     // ====================================
