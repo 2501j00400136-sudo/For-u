@@ -38,7 +38,7 @@ const pages = [
 
 
     // ====================================
-    // PAGE 4
+    // PAGE 3
     // ====================================
 
     {
@@ -52,33 +52,11 @@ const pages = [
     },
 
 
-    // ====================================
-    // PAGE 5 - IMAGE 3
-    // ====================================
-
-    {
-        title: "That One Memory 💋😁🫣",
-
-        text: "Ye kbhi nhi Bhulungi.😁",
-
-        button: "Next 💕",
-
-        html: `
-            <img
-                src="image3.jpeg"
-                class="memory-photo"
-                alt="That one memory"
-            >
-
-            <h2>That One Memory 💋😁🫣</h2>
-
-            <p>Ye kbhi nhi Bhulungi.😁</p>
-        `
-    },
+   
 
 
     // ====================================
-    // PAGE 6
+    // PAGE 4
     // ====================================
 
     {
@@ -93,7 +71,7 @@ const pages = [
 
 
     // ====================================
-    // PAGE 7
+    // PAGE 5
     // ====================================
 
     {
@@ -107,33 +85,11 @@ const pages = [
     },
 
 
-    // ====================================
-    // PAGE 8 - IMAGE 1
-    // ====================================
 
-    {
-        title: "Us 🥹",
-
-        text: "We are the bestie forever. ❤️",
-
-        button: "Next ✨",
-
-        html: `
-            <img
-                src="image1.jpeg"
-                class="memory-photo"
-                alt="Us besties"
-            >
-
-            <h2>Us 🥹</h2>
-
-            <p>We are the bestie forever. ❤️</p>
-        `
-    },
 
 
     // ====================================
-    // PAGE 9
+    // PAGE 6
     // ====================================
 
     {
@@ -148,7 +104,7 @@ const pages = [
 
 
     // ====================================
-    // PAGE 10 - FINAL
+    // PAGE 7 - FINAL
     // ====================================
 
     {
